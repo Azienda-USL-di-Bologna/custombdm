@@ -1,0 +1,6 @@
+
+web\lib\
+web\lib\bdm_utilities-1.0.jar
+web\lib\bdm_client-1.0.jar
+web\lib\bdm_babel-1.0.jar
+web\lib\bdm_core-1.0.jar
